@@ -1,0 +1,82 @@
+{
+    
+  "AppRedirect": {
+    "status"        : false,
+    "redirect_link" : "https://play.google.com/store/apps/details?id=com.esota.studio.among.makers"
+  },
+  
+  "AdsController": {
+      
+    "BannerNetwork"              : "admob",
+    "InterstitialNetwork"        : "admob",
+    "NativeNetwork"              : "admob",
+    
+    "IntervalClick"          : 1,
+    "AdMob_ID"               : "pub-3940256099942544",
+    "AdMob_Banner"           : "ca-app-pub-3940256099942544/6300978111",
+    "AdMob_InterstitialAd"   : "ca-app-pub-3940256099942544/1033173712",
+    "AdMob_Native"           : "ca-app-pub-3940256099942544/2247696110",
+    
+    
+    "Applovin_Banner"         : "000000",
+    "Applovin_InterstitialAd" : "000000",
+    "Applovin_Native"         : "0000000"
+  },
+  
+ 
+  "MyList": [
+    {
+      "title": "Descrption mx grau game",
+      "image": "https://raw.githubusercontent.com/fluxappsltd/MX-Grau/main/1.png",
+      "native" : true,
+      "paragraph": [
+        "1- MX Grau is a motorbike stunt simulator game,available on both Google Play and the App Store.",
+        "https://raw.githubusercontent.com/fluxappsltd/MX-Grau/main/5.png",
+        "2- It can also be downloaded and played on PC using MEmu ,The game is set in a world of off-road motocross racing.",
+        "https://raw.githubusercontent.com/fluxappsltd/MX-Grau/main/6.png",
+        "3- where players take on the role of a skilled rider and compete in various tournaments.,According to one source, the game teaches players how to MX Grau their bike."
+      ]
+    },
+    {
+      "title": "What is the objective of the game",
+      "image": "https://raw.githubusercontent.com/fluxappsltd/MX-Grau/main/2.png",
+      "native" : true,
+       "paragraph": [
+        "1- The objective of MX Grau is to compete in various tournaments and perform stunts to earn scores and recognition.",
+        "2- The game has a realistic physics engine that accurately simulates the movement and behavior of the dirt bikes, making it challenging but also enjoyable.",
+        "https://raw.githubusercontent.com/fluxappsltd/MX-Grau/main/10.png",
+        "3- Players can customize their bikes and riders from a range of options,The game allows players to travel to many locales and hone their riding abilities.",
+        "4- PPlayers will be challenged by challenging terrains and obstacles on each of the tracks in this game."
+      ]
+    },
+    {
+      "title": "What is the gameplay of MX Grau",
+      "image": "https://raw.githubusercontent.com/fluxappsltd/MX-Grau/main/3.png",
+      "native" : true,
+      "paragraph": [
+        "1- MX Grau is a motorbike stunt simulator game where players compete in various tournaments and perform stunts to earn scores and recognition.",
+        "2- The gameplay involves riding dirt bikes on challenging terrains and obstacles, while performing stunts to earn more scores.",
+        "3- The game has a realistic physics engine that accurately simulates the movement and behavior of the dirt bikes, making it challenging but also enjoyable.",
+        "https://raw.githubusercontent.com/fluxappsltd/MX-Grau/main/8.png",
+        "4- Players can customize their bikes and riders from a range of options,Gameplay videos are available on YouTube for those who want to see the game in action."
+      ]
+    
+        
+    },
+    {
+      "title": "How many levels are there in MX Grau",
+      "image": "https://raw.githubusercontent.com/fluxappsltd/MX-Grau/main/9.png",
+      "native" : true,
+      "paragraph": [
+        "1- The number of levels in MX Grau is not specified in the search results. However, one source mentions that the game has challenging levels.",
+       "https://raw.githubusercontent.com/fluxappsltd/MX-Grau/main/4.png",
+        "2- It is likely that the game has multiple levels for players to compete in various tournaments and perform stunts to earn scores and recognition.",
+        "3- The game also offers a thrilling racing experience that is packed with fast-paced action.",
+ 
+        "4- Players can download the game and play it for free on Android devices."
+        
+      ]
+        
+    }
+  ]
+}
